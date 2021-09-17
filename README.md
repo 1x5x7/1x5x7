@@ -1,8 +1,7 @@
-<h1 align="center">Welcome to my profile!</h1>
+<h1 align="center">Welcome to my profile! <img src="https://raw.githubusercontent.com/1x5x7/1x5x7/master/_assets/waving.gif" width="30px"></h1>
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rbrt.smdt/)
-
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/1x5x7/)
+[![instagram](https://img.shields.io/badge/rbrt.smdt-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rbrt.smdt/)
+[![steam](https://img.shields.io/badge/1x5x7-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/1x5x7/)
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
