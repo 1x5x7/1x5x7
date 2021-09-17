@@ -52,15 +52,15 @@
 <h4 align="center">Get in touch with me on my socials!</h4>
 <p align="center">
   <a href="https://www.instagram.com/rbrt.smdt/">
-    <img src="https://img.shields.io/badge/rbrt.smdt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+    <img src="https://raw.githubusercontent.com/1x5x7/1x5x7/master/_assets/instagram.png" alt="instagram" style="width:50px;height:50px;">
   </a>
   <a href="https://steamcommunity.com/id/1x5x7/">
-    <img src="https://img.shields.io/badge/1x5x7-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam">
+    <img src="https://raw.githubusercontent.com/1x5x7/1x5x7/master/_assets/steam.png" alt="steam" style="width:55px;height:55px;">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/1x5x7/">
-    <img src="https://img.shields.io/github/followers/1x5x7.svg?style=social&label=Follow&maxAge=2592000" alt="github_follow">
+    <img src="https://img.shields.io/github/followers/1x5x7.svg?style=social&label=Follow&maxAge=259200" alt="github_follow">
   </a>
 </p>
